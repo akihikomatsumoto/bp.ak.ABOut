@@ -39,8 +39,42 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+					"fontname" : "Arial Bold",
+					"fontsize" : 9.0,
+					"id" : "obj-3",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 41.280663, 175.0, 41.0, 17.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 42.780659, 174.0, 16.0, 17.0 ],
+					"style" : "",
+					"text" : "B",
+					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontname" : "Arial Bold",
+					"fontsize" : 9.0,
+					"id" : "obj-2",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 19.780661, 175.0, 41.0, 17.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 17.280661, 174.0, 16.0, 17.0 ],
+					"style" : "",
+					"text" : "A",
+					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"bgcolor" : [ 0.290196, 0.309804, 0.301961, 0.0 ],
-					"blinkcolor" : [ 0.278431, 0.839216, 1.0, 1.0 ],
+					"blinkcolor" : [ 1.0, 0.0, 0.310257, 1.0 ],
 					"id" : "obj-47",
 					"maxclass" : "button",
 					"numinlets" : 1,
@@ -434,7 +468,7 @@
 ,
 					"style" : "",
 					"text" : "autopattr",
-					"varname" : "u843003132"
+					"varname" : "u498009988"
 				}
 
 			}
